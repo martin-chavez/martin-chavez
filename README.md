@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+I am a results-driven professional with 10+ years of experience dedicated to solving complex problems. My expertise lies in the development and maintenance of enterprise-level software platforms and systems, encompassing a diverse skill set in both server-side programming and client-side development.
+
+In the realm of server-side programming, I specialize in crafting robust ASP.NET applications and building RESTful Web API Services using languages such as C#, Python, and VB.NET. My versatility in programming languages allows me to adapt seamlessly to varied project requirements, delivering solutions of the highest quality.
+
+On the client-side, I bring proficiency in utilizing frameworks like Svelte, Vue.js, Razor Pages, and, more recently, Blazor. Through these tools, I've successfully created user-friendly interfaces and interactive web applications. My meticulous attention to detail ensures a smooth and intuitive user experience, and my adept problem-solving skills enable me to overcome challenges throughout the development lifecycle.
+
+In the realm of database management, I am well-versed in Microsoft SQL Server and Azure Cloud. Leveraging these platforms, I have effectively stored and managed data, prioritizing scalability and maintaining data integrity at all times.
+
+I am always open to a new opportunity.
+
 <!--
 **martin-chavez/martin-chavez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
